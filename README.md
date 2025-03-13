@@ -12,7 +12,7 @@ An Android app that recommends games and allows users to play them instantly. Th
 ## Screenshots
 | Home Screen | Game Preview | Gameplay |
 |-------------|--------------|----------|
-| <img src="screenshots/home_screen.png.jpg" width="200"> | <img src="screenshots/game_preview.png.jpg" width="200"> | <img src="screenshots/gameplay.png.jpg" width="200"> |
+| <img src="screenshots/home_screen.png" width="200"> | <img src="screenshots/game_preview.png" width="200"> | <img src="screenshots/gameplay.png" width="200"> |
 
 ## Technologies Used
 - **Android Studio**: Primary IDE for development.
