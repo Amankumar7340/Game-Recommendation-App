@@ -45,7 +45,3 @@ Contributions are welcome! If you'd like to contribute, please follow these step
 2. Create a new branch for your feature or bugfix.
 3. Commit your changes and push to your branch.
 4. Submit a pull request with a detailed description of your changes.
-
-## Acknowledgements
-   Inspired by popular mobile games like Flappy Bird and 2048.
-   Built with ❤️ using Android Studio.
