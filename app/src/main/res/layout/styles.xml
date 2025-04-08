@@ -1,0 +1,16 @@
+<resources>
+    <!-- Base application theme -->
+    <style name="Theme.MyApplication" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <!-- Your existing theme attributes -->
+    </style>
+
+    <!-- Category button style -->
+    <style name="CategoryButtonStyle" parent="Widget.MaterialComponents.Button.OutlinedButton">
+        <item name="android:textSize">12sp</item>
+        <item name="android:paddingStart">12dp</item>
+        <item name="android:paddingEnd">12dp</item>
+        <item name="android:minWidth">80dp</item>
+        <item name="android:textColor">@color/category_button_text_selector</item>
+        <item name="strokeColor">@color/category_button_stroke_selector</item>
+    </style>
+</resources>

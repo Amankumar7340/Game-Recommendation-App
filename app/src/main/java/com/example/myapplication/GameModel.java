@@ -5,15 +5,26 @@ import java.util.List;
 public class GameModel {
     private String name;
     private String description;
-    private int image;
-    private List<String> tags; // Add tags for categorization
+    private int imageResource;
+    private List<String> tags;
+    private boolean isPlayStoreResult;
 
-    // Updated constructor to include tags
-    public GameModel(String name, String description, int image, List<String> tags) {
+    // Constructor for local games
+    public GameModel(String name, String description, int imageResource, List<String> tags) {
         this.name = name;
         this.description = description;
-        this.image = image;
+        this.imageResource = imageResource;
         this.tags = tags;
+        this.isPlayStoreResult = false;
+    }
+
+    // Constructor with Play Store flag
+    public GameModel(String name, String description, int imageResource, List<String> tags, boolean isPlayStoreResult) {
+        this.name = name;
+        this.description = description;
+        this.imageResource = imageResource;
+        this.tags = tags;
+        this.isPlayStoreResult = isPlayStoreResult;
     }
 
     public String getName() {
@@ -24,12 +35,19 @@ public class GameModel {
         return description;
     }
 
-    public int getImage() {
-        return image;
+    public int getImageResource() {
+        return imageResource;
     }
 
-    // Add getTags() method
     public List<String> getTags() {
         return tags;
+    }
+
+    public boolean isPlayStoreResult() {
+        return isPlayStoreResult;
+    }
+
+    public Object getImage() {
+        return imageResource;
     }
 }
