@@ -10,9 +10,9 @@ An Android app that recommends games and allows users to play them instantly. Th
 - **Responsive UI**: Clean and intuitive user interface designed for a seamless experience.
 
 ## Screenshots
-| Home Screen | Game Preview | Gameplay |
-|-------------|--------------|----------|
-| <img src="app/screenshots/home_screen.png" width="200"> | <img src="app/screenshots/game_preview.png" width="200"> | <img src="app/screenshots/gameplay.png" width="200"> |
+| Login page | HomeScreen | Games | Menubar |
+|-------------|--------------|----------|----------|
+| <img src="app/screenshots/login.png" width="200"> | <img src="app/screenshots/home.png" width="200"> | <img src="app/screenshots/game.png" width="200"> | <img src="app/screenshots/menu.png" width="200"> |
 
 ## Technologies Used
 - **Android Studio**: Primary IDE for development.
