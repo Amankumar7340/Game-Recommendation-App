@@ -12,7 +12,7 @@ An Android app that recommends games and allows users to play them instantly. Th
 ## Screenshots
 | Home Screen | Game Preview | Gameplay |
 |-------------|--------------|----------|
-| <img src="screenshots/home_screen.png" width="200"> | <img src="screenshots/game_preview.png" width="200"> | <img src="screenshots/gameplay.png" width="200"> |
+| <img src="app/screenshots/home_screen.png" width="200"> | <img src="app/screenshots/game_preview.png" width="200"> | <img src="app/screenshots/gameplay.png" width="200"> |
 
 ## Technologies Used
 - **Android Studio**: Primary IDE for development.
@@ -20,11 +20,3 @@ An Android app that recommends games and allows users to play them instantly. Th
 - **RecyclerView**: For displaying the list of games.
 - **VideoView**: For playing game preview videos.
 - **Intent**: For opening external links (e.g., Memory Match game).
-
-## Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/GameRecommendationApp.git
-2. Open the project in Android Studio.
-
-3. Build and run the app on an emulator or physical device.
