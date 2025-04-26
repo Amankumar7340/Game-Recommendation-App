@@ -3,7 +3,7 @@
 An Android app that recommends games and allows users to play them instantly. The app features a collection of popular games, including Flappy Bird, Tic-Tac-Toe, 2048, Endless Runner, and Memory Match. Users can search for games, view previews, and play them directly within the app.
 
 ## DOWNLOAD: 
-   VISIT: https://game-rex-app-webpage.vercel.app/
+   VISIT:  https://game-rex-app-webpage.vercel.app/
    
 ## Features
 - **Game Recommendations**: Browse a curated list of games with descriptions and tags.
